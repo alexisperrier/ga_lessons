@@ -17,6 +17,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: alexip
 github_username:  alexperrier
 
+exclude: ["data", "notes"]
+
+
 # Build settings
 # markdown: kramdown
 markdown: kramdown

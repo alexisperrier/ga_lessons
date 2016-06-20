@@ -1,0 +1,44 @@
+* Check notebooks and python accessibility for students
+* Slides on github as pdf
+
+# Lesson 2
+
+* Read on SMART
+
+*
+
+# Lessons 1
+
+* ipython Notebook wth the UCI retail dataset
+  * get the data
+  * open in csv
+  * basic stats, histogram
+* result: simple clustering analysis
+
+* Intro of tools ???
+* Get the code on /lessons/lesson-1/code/starter-code/lesson1-starter-code.ipynb
+
+or from the UCI dataset
+
+get them to
+
+1. launch create a python notebok
+2. load the data df.
+3. plot something df.hist
+4. commit and push the result to github
+
+
+
+
+* get lesson guide into slides
+20 min  Opening Welcome to GA
+20 min  Introduction    What is Data Science
+10 min  Quiz    Data Science Quiz
+25 min  Introduction    Data Science Workflow
+25 min  Guided Practice Workflow Application
+65 min  Demo    Data Science Dev Environment
+5 min   Conclusion  Review
+
+* slides are available to students
+* code is available to students
+
