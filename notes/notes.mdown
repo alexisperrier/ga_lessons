@@ -2,12 +2,18 @@
 * Slides on github as pdf
 
 # Lesson 2
+https://github.com/alexperrier/ds-curriculum/tree/master/lessons/lesson-02
 
-* Read on SMART
+* Lab links
+https://github.com/generalassembly-studio/ds-curriculum/blob/master/lessons/lesson-02/code/numpy-and-pandas.ipynb
 
-*
+Is project 1 introduced at lesson 1 or 2?
 
 # Lessons 1
+https://github.com/alexperrier/ds-curriculum/tree/master/lessons/lesson-01
+
+* flightstats ????
+*
 
 * ipython Notebook wth the UCI retail dataset
   * get the data
@@ -15,7 +21,6 @@
   * basic stats, histogram
 * result: simple clustering analysis
 
-* Intro of tools ???
 * Get the code on /lessons/lesson-1/code/starter-code/lesson1-starter-code.ipynb
 
 or from the UCI dataset
@@ -27,18 +32,6 @@ get them to
 3. plot something df.hist
 4. commit and push the result to github
 
-
-
-
-* get lesson guide into slides
-20 min  Opening Welcome to GA
-20 min  Introduction    What is Data Science
-10 min  Quiz    Data Science Quiz
-25 min  Introduction    Data Science Workflow
-25 min  Guided Practice Workflow Application
-65 min  Demo    Data Science Dev Environment
-5 min   Conclusion  Review
-
-* slides are available to students
+* slides are available to students (just before the course)
 * code is available to students
 

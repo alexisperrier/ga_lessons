@@ -22,7 +22,7 @@ exclude: ["data", "notes"]
 
 # Build settings
 # markdown: kramdown
-markdown: kramdown
+markdown: redcarpet
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
