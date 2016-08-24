@@ -1,0 +1,41 @@
+# End of Course Friendly Competition
+
+In this session we will make predictions on the Boston housing dataset to review the major concepts and models we've learned in this course.
+
+The boston housing dataset has 14 attributes whose descriptions you can find here https://archive.ics.uci.edu/ml/datasets/Housing
+
+The dataset has been split into a training dataset and testing dataset.
+The racial attribute B has been removed from the dataset which leaves 12 predictors and one target MEDV: the Median value of owner-occupied homes.
+
+Your goal is to build a sklean pipeline on the training dataset that predicts the MEDV from the 12 predictors and apply it to the testing data.
+
+Your scikit lean pipeline must beat the baseline score below of 9.74 based on a Random Forest regression. The lower the better. The metric is [MSE](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html).
+
+* Data exploration
+* Feature engineering
+* Model selection through cross validation and grid search
+
+Some questions you could look into
+
+* Is my model over fitting or under fitting? (bias or variance)
+* Try out different feature engineering strategies (missing values, tranformations, ...)
+* What features are important which can be left out (if any)
+* How to reduce impact of collinearity?
+
+Use any model you want such as
+
+* LM, Ridge, Lasso
+* Random Forests
+* K-NN
+* SVM
+* Bagging model with a weak learner.
+
+and techniques such as
+
+* Cross validation
+* Grid search (knowing what the parameters actually mean helps a lot)
+* Learning curves
+* Dimensionality reduction with PCA
+
+Don't forget to fit your transformations on the training and apply them on the test set (do not fit the transformation on the test set)
+
